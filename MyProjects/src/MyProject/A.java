@@ -7,6 +7,8 @@ public class A {
 		System.out.println(" Changed A ");
 
 		System.out.println(" devB changed A ");
+		
+		System.out.println(" devC changed A");
 
 		
 		B plus = new B();
